@@ -12,6 +12,8 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="1_1.vi" Type="VI" URL="../1_1.vi"/>
 		<Item Name="1_2.vi" Type="VI" URL="../1_2.vi"/>
+		<Item Name="2_1.vi" Type="VI" URL="../2_1.vi"/>
+		<Item Name="2_2.vi" Type="VI" URL="../2_2.vi"/>
 		<Item Name="ParseStringTo1Darray.vi" Type="VI" URL="../ParseStringTo1Darray.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
