@@ -1,5 +1,7 @@
-# AdventOfCode2021
-Repo for Advent Of Code 2021 challenge
-https://adventofcode.com/2021
+# AdventOfCode
 
-All tasks programmed in LabVIEW 2021 32-bit Community Edition
+Currently used for Advent of Code 2022
+
+
+Tasks programmed in LabVIEW 2022 and saved for 2021 Community Editions.
+Trying also with Python in Jupyter Notebooks
