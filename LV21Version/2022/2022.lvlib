@@ -12,6 +12,9 @@
 	<Item Name="5_1_2.vi" Type="VI" URL="../5_1_2.vi"/>
 	<Item Name="6_1_2.vi" Type="VI" URL="../6_1_2.vi"/>
 	<Item Name="6_1_sub_arecharequal.vi" Type="VI" URL="../6_1_sub_arecharequal.vi"/>
+	<Item Name="7_1_2.vi" Type="VI" URL="../7_1_2.vi"/>
+	<Item Name="7_1_sub_children.vi" Type="VI" URL="../7_1_sub_children.vi"/>
+	<Item Name="8_1.vi" Type="VI" URL="../8_1.vi"/>
 	<Item Name="Day1_input.txt" Type="Document" URL="../Day1_input.txt"/>
 	<Item Name="DecipherRockPapScis.vi" Type="VI" URL="../DecipherRockPapScis.vi"/>
 	<Item Name="DecipherWhoWins.vi" Type="VI" URL="../DecipherWhoWins.vi"/>
