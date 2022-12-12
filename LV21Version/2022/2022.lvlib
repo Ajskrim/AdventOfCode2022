@@ -16,8 +16,8 @@
 	<Item Name="7_1_sub_children.vi" Type="VI" URL="../7_1_sub_children.vi"/>
 	<Item Name="8_1_2.vi" Type="VI" URL="../8_1_2.vi"/>
 	<Item Name="9.vi" Type="VI" URL="../9.vi"/>
-	<Item Name="9_2.vi" Type="VI" URL="../9_2.vi"/>
 	<Item Name="9_sub_MoveY_N.vi" Type="VI" URL="../9_sub_MoveY_N.vi"/>
+	<Item Name="9_sub_Ntails.vi" Type="VI" URL="../9_sub_Ntails.vi"/>
 	<Item Name="Day1_input.txt" Type="Document" URL="../Day1_input.txt"/>
 	<Item Name="DecipherRockPapScis.vi" Type="VI" URL="../DecipherRockPapScis.vi"/>
 	<Item Name="DecipherWhoWins.vi" Type="VI" URL="../DecipherWhoWins.vi"/>
