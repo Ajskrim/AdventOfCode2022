@@ -4,24 +4,52 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="1_1_Python.ipynb" Type="Document" URL="../1_1_Python.ipynb"/>
-	<Item Name="3_1.vi" Type="VI" URL="../3_1.vi"/>
-	<Item Name="3_2.vi" Type="VI" URL="../3_2.vi"/>
-	<Item Name="3_sub_stringLine2array.vi" Type="VI" URL="../3_sub_stringLine2array.vi"/>
-	<Item Name="4_1_2.vi" Type="VI" URL="../4_1_2.vi"/>
-	<Item Name="5_1_2.vi" Type="VI" URL="../5_1_2.vi"/>
-	<Item Name="6_1_2.vi" Type="VI" URL="../6_1_2.vi"/>
-	<Item Name="6_1_sub_arecharequal.vi" Type="VI" URL="../6_1_sub_arecharequal.vi"/>
-	<Item Name="7_1_2.vi" Type="VI" URL="../7_1_2.vi"/>
-	<Item Name="7_1_sub_children.vi" Type="VI" URL="../7_1_sub_children.vi"/>
-	<Item Name="8_1_2.vi" Type="VI" URL="../8_1_2.vi"/>
-	<Item Name="9.vi" Type="VI" URL="../9.vi"/>
-	<Item Name="9_sub_MoveY_N.vi" Type="VI" URL="../9_sub_MoveY_N.vi"/>
-	<Item Name="9_sub_Ntails.vi" Type="VI" URL="../9_sub_Ntails.vi"/>
-	<Item Name="Day1_input.txt" Type="Document" URL="../Day1_input.txt"/>
-	<Item Name="DecipherRockPapScis.vi" Type="VI" URL="../DecipherRockPapScis.vi"/>
-	<Item Name="DecipherWhoWins.vi" Type="VI" URL="../DecipherWhoWins.vi"/>
-	<Item Name="LV21_1_1.vi" Type="VI" URL="../LV21_1_1.vi"/>
-	<Item Name="LV21_2.vi" Type="VI" URL="../LV21_2.vi"/>
-	<Item Name="LV21_2_2.vi" Type="VI" URL="../LV21_2_2.vi"/>
+	<Item Name="1" Type="Folder">
+		<Item Name="1_1_Python.ipynb" Type="Document" URL="../1_1_Python.ipynb"/>
+		<Item Name="Day1_input.txt" Type="Document" URL="../Day1_input.txt"/>
+		<Item Name="LV21_1_1.vi" Type="VI" URL="../LV21_1_1.vi"/>
+	</Item>
+	<Item Name="2" Type="Folder">
+		<Item Name="DecipherRockPapScis.vi" Type="VI" URL="../DecipherRockPapScis.vi"/>
+		<Item Name="DecipherWhoWins.vi" Type="VI" URL="../DecipherWhoWins.vi"/>
+		<Item Name="LV21_2.vi" Type="VI" URL="../LV21_2.vi"/>
+		<Item Name="LV21_2_2.vi" Type="VI" URL="../LV21_2_2.vi"/>
+	</Item>
+	<Item Name="3" Type="Folder">
+		<Item Name="3_1.vi" Type="VI" URL="../3_1.vi"/>
+		<Item Name="3_2.vi" Type="VI" URL="../3_2.vi"/>
+		<Item Name="3_sub_stringLine2array.vi" Type="VI" URL="../3_sub_stringLine2array.vi"/>
+	</Item>
+	<Item Name="4" Type="Folder">
+		<Item Name="4_1_2.vi" Type="VI" URL="../4_1_2.vi"/>
+	</Item>
+	<Item Name="5" Type="Folder">
+		<Item Name="5_1_2.vi" Type="VI" URL="../5_1_2.vi"/>
+	</Item>
+	<Item Name="6" Type="Folder">
+		<Item Name="6_1_2.vi" Type="VI" URL="../6_1_2.vi"/>
+		<Item Name="6_1_sub_arecharequal.vi" Type="VI" URL="../6_1_sub_arecharequal.vi"/>
+	</Item>
+	<Item Name="7" Type="Folder">
+		<Item Name="7_1_2.vi" Type="VI" URL="../7_1_2.vi"/>
+		<Item Name="7_1_sub_children.vi" Type="VI" URL="../7_1_sub_children.vi"/>
+	</Item>
+	<Item Name="8" Type="Folder">
+		<Item Name="8_1_2.vi" Type="VI" URL="../8_1_2.vi"/>
+	</Item>
+	<Item Name="9" Type="Folder">
+		<Item Name="9.vi" Type="VI" URL="../9.vi"/>
+		<Item Name="9_sub_MoveY_N.vi" Type="VI" URL="../9_sub_MoveY_N.vi"/>
+		<Item Name="9_sub_Ntails.vi" Type="VI" URL="../9_sub_Ntails.vi"/>
+	</Item>
+	<Item Name="10" Type="Folder">
+		<Item Name="10_1.vi" Type="VI" URL="../10_1.vi"/>
+		<Item Name="10_2.vi" Type="VI" URL="../10_2.vi"/>
+	</Item>
+	<Item Name="11" Type="Folder">
+		<Item Name="11.vi" Type="VI" URL="../11.vi"/>
+		<Item Name="Monkey.lvclass" Type="LVClass" URL="../Monkey/Monkey.lvclass"/>
+		<Item Name="Operation.lvclass" Type="LVClass" URL="../Operation/Operation.lvclass"/>
+	</Item>
+	<Item Name="12" Type="Folder"/>
 </Library>
