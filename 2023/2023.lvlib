@@ -8,5 +8,7 @@
 	<Item Name="1_2.vi" Type="VI" URL="../1_2.vi"/>
 	<Item Name="1_2_back.vi" Type="VI" URL="../1_2_back.vi"/>
 	<Item Name="1_2_front.vi" Type="VI" URL="../1_2_front.vi"/>
+	<Item Name="2_1.vi" Type="VI" URL="../2_1.vi"/>
+	<Item Name="2_2.vi" Type="VI" URL="../2_2.vi"/>
 	<Item Name="text2word.vi" Type="VI" URL="../../Misc/text2word.vi"/>
 </Library>
