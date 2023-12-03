@@ -49,6 +49,7 @@
 				<Item Name="Remove Duplicates from 1D Array (Variant)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (Variant)__ogtk.vi"/>
 				<Item Name="Remove Duplicates from 1D Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array__ogtk.vi"/>
 				<Item Name="String to 1D Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/String to 1D Array__ogtk.vi"/>
+				<Item Name="String to Character Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/String to Character Array__ogtk.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Add Node.vi" Type="VI" URL="/&lt;vilib&gt;/National Instruments/Tree Map/API/Add Node.vi"/>
@@ -60,6 +61,7 @@
 				<Item Name="Join Strings Tree.vi" Type="VI" URL="/&lt;vilib&gt;/National Instruments/Tree Map/Utility/Join Strings Tree.vi"/>
 				<Item Name="List Roots.vi" Type="VI" URL="/&lt;vilib&gt;/National Instruments/Tree Map/API/List Roots.vi"/>
 				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="Set Intersection.vim" Type="VI" URL="/&lt;vilib&gt;/set operations/Set Intersection.vim"/>
 				<Item Name="Split String Tree.vi" Type="VI" URL="/&lt;vilib&gt;/National Instruments/Tree Map/Utility/Split String Tree.vi"/>
 				<Item Name="TM Head and Tail.vi" Type="VI" URL="/&lt;vilib&gt;/National Instruments/Tree Map/SubVIs/TM Head and Tail.vi"/>
@@ -67,6 +69,7 @@
 				<Item Name="Tree Map Data.ctl" Type="VI" URL="/&lt;vilib&gt;/National Instruments/Tree Map/Tree Map Data.ctl"/>
 				<Item Name="Tree Map to Tree Control Items.vi" Type="VI" URL="/&lt;vilib&gt;/National Instruments/Tree Map/API/Tree Map to Tree Control Items.vi"/>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
