@@ -12,5 +12,11 @@
 	<Item Name="2_2.vi" Type="VI" URL="../2_2.vi"/>
 	<Item Name="3_1.vi" Type="VI" URL="../3_1.vi"/>
 	<Item Name="3_2.vi" Type="VI" URL="../3_2.vi"/>
+	<Item Name="4_1.vi" Type="VI" URL="../4_1.vi"/>
+	<Item Name="4_2.vi" Type="VI" URL="../4_2.vi"/>
+	<Item Name="4_2_match_per_line.vi" Type="VI" URL="../4_2_match_per_line.vi"/>
+	<Item Name="5_1.vi" Type="VI" URL="../5_1.vi"/>
+	<Item Name="5_2.vi" Type="VI" URL="../5_2.vi"/>
+	<Item Name="5_2_inrangecomparison.vi" Type="VI" URL="../5_2_inrangecomparison.vi"/>
 	<Item Name="text2word.vi" Type="VI" URL="../../Misc/text2word.vi"/>
 </Library>
