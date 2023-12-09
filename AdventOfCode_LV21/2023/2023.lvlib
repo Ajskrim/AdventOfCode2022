@@ -4,6 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="7" Type="Folder">
+		<Item Name="7_1.vi" Type="VI" URL="../CardHand/7_1.vi"/>
+		<Item Name="7_1_Recursivefunc.vi" Type="VI" URL="../CardHand/7_1_Recursivefunc.vi"/>
+		<Item Name="CardHand.lvclass" Type="LVClass" URL="../CardHand/CardHand.lvclass"/>
+	</Item>
 	<Item Name="1.vi" Type="VI" URL="../1.vi"/>
 	<Item Name="1_2.vi" Type="VI" URL="../1_2.vi"/>
 	<Item Name="1_2_back.vi" Type="VI" URL="../1_2_back.vi"/>
@@ -21,5 +26,8 @@
 	<Item Name="5_2_take_seeds_give_min.vi" Type="VI" URL="../5_2_take_seeds_give_min.vi"/>
 	<Item Name="6_1.vi" Type="VI" URL="../6_1.vi"/>
 	<Item Name="6_2.vi" Type="VI" URL="../6_2.vi"/>
+	<Item Name="8_1.vi" Type="VI" URL="../8_1.vi"/>
+	<Item Name="8_2.vi" Type="VI" URL="../8_2.vi"/>
 	<Item Name="text2word.vi" Type="VI" URL="../../Misc/text2word.vi"/>
+	<Item Name="X_X.vit" Type="VI" URL="../X_X.vit"/>
 </Library>
