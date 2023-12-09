@@ -28,6 +28,8 @@
 	<Item Name="6_2.vi" Type="VI" URL="../6_2.vi"/>
 	<Item Name="8_1.vi" Type="VI" URL="../8_1.vi"/>
 	<Item Name="8_2.vi" Type="VI" URL="../8_2.vi"/>
+	<Item Name="9.vi" Type="VI" URL="../9.vi"/>
+	<Item Name="9_1_recursiveSearch.vi" Type="VI" URL="../9_1_recursiveSearch.vi"/>
 	<Item Name="text2word.vi" Type="VI" URL="../../Misc/text2word.vi"/>
 	<Item Name="X_X.vit" Type="VI" URL="../X_X.vit"/>
 </Library>
